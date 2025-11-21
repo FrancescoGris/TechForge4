@@ -37,7 +37,7 @@ class BooksFavoriteManager extends FavoriteManager {
     }
 }
 
-//testar
+//teste
 
 console.log("Favoritos: FILMES (Ordenação Alfabética e Únicos)");
 const meusFilmes = new MoviesFavoriteManager();
